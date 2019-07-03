@@ -1,0 +1,35 @@
+{
+  "name": "ak-node-uploadserver",
+  "version": "1.0.0",
+  "description": "Armin Kardan nodejs upload server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArminKardan/node-uploadserver.git"
+  },
+  "keywords": [
+    "Node",
+    "NojeJS",
+    "nodejs",
+    "uploadserver",
+    "upload",
+    "progressbar",
+    "armin",
+    "kardan",
+    "arminkardan"
+  ],
+  "author": "Armin Kardan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ArminKardan/node-uploadserver/issues"
+  },
+  "homepage": "https://github.com/ArminKardan/node-uploadserver#readme",
+  "dependencies": {
+    "formidable": "^1.2.1",
+    "lodash": "^4.17.11"
+  },
+  "devDependencies": {}
+}
